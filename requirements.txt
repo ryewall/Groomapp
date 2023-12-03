@@ -4,5 +4,6 @@ Flask==2.0.1
 Flask-Migrate==3.0.1
 Flask-SQLAlchemy==2.5.1
 psycopg2-binary==2.9.1
+pytest
 SQLAlchemy==1.4.17
 werkzeug==2.1.2
